@@ -30,8 +30,6 @@ build/
 dist/
 *.egg-info/
 
-# SQLite databases (if created later)
-*.sqlite3
 
 # Temporary files
 *.tmp
